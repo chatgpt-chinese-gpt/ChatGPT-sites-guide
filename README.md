@@ -25,7 +25,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 
 ---
 
-## 💡 什么是 ChatGPT 中文版？
+## 什么是 ChatGPT 中文版？
 **ChatGPT 中文版** 是 OpenAI 的 AI 聊天模型的优化版本，专为**国内用户**提供流畅、精准的 AI 交互体验。  
 📌 **与官网相比，ChatGPT 中文版的优势：**
 - **✅ 无需翻墙**：国内直连，不受网络限制。
@@ -33,7 +33,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 - **✅ 多功能应用**：支持 GPT-4、GPT-4o，可用于写作、翻译、代码编写、AI PPT 生成等。
 ---
 
-## 🚀 国内可用的 ChatGPT 镜像网站推荐（无需翻墙）
+## 国内可用的 ChatGPT 镜像网站推荐
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，为用户提供高效的中文访问体验：
 
@@ -50,7 +50,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 
 ---
 
-## 🔍 ChatGPT 官网 vs. ChatGPT 中文版（国内镜像）对比
+## ChatGPT 官网与中文版的区别
 
 | **对比项**      | **ChatGPT 官网** | **ChatGPT 中文版（镜像）** |
 |----------------|----------------|----------------|
@@ -65,7 +65,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 
 ---
 
-## ⏳ 如何快速开始使用 ChatGPT 中文版
+## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
 1. **选择镜像站点**：访问推荐的镜像站点（如 [snakegpt.work](https://snakegpt.work)）。
