@@ -9,7 +9,7 @@
 
 ChatGPT 官网：[https://chat.openai.com](https://chat.openai.com) （需翻墙）  
 ChatGPT 中文版直连入口：[https://gptcat.net](https://gptcat.net/) （无需翻墙）    
-ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需翻墙） 
+ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需翻墙）  
 
 ---
 
