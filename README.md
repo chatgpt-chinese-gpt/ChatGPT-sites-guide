@@ -13,7 +13,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 
 ---
 
-## 📋 目录
+## 📋 目录 
 1. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)
 2. [国内可用的 ChatGPT 镜像网站推荐](#国内可用的-chatgpt-镜像网站推荐)
 3. [ChatGPT 官网与中文版的区别](#chatgpt-官网与中文版的区别)
