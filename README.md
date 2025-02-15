@@ -5,7 +5,7 @@
 
 2025年最新 **ChatGPT 中文版** 访问指南！无需翻墙，国内直连，支持 GPT-4、GPT-4o，适用于学习、办公、写作、翻译。   
 
-✅ **如何在国内直接使用 ChatGPT 中文版？本指南提供最全镜像站推荐，支持 GPT-4、GPT-4o，满足你的写作、翻译、编程需求！**
+✅ **如何在国内直接使用 ChatGPT 中文版？本指南提供最全镜像站推荐，支持 GPT-4、GPT-4o、GPT-o1，满足你的写作、翻译、编程需求！**
 
 ChatGPT 官网：[https://chat.openai.com](https://chat.openai.com) （需翻墙）  
 ChatGPT 中文版直连入口：[https://gptcat.net](https://gptcat.net/) （无需翻墙）    
@@ -16,7 +16,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 ## 📋 目录 
 1. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)
 2. [国内可用的 ChatGPT 镜像网站推荐](#国内可用的-chatgpt-镜像网站推荐)
-3. [ChatGPT 官网与中文版的区别](#chatgpt-官网与中文版的区别)
+3. [ChatGPT 中文版与官网的区别](#chatgpt-中文版与官网的区别)
 4. [如何快速开始使用 ChatGPT 中文版](#如何快速开始使用-chatgpt-中文版)
 5. [ChatGPT 官网注册与使用教程](#chatgpt-官网注册与使用教程)
 5. [常见问题解答（FAQ）](#常见问题解答faq)
@@ -50,7 +50,7 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 
 ---
 
-## ChatGPT 官网与中文版的区别
+## ChatGPT 中文版与官网的区别
 
 | **对比项**      | **ChatGPT 官网** | **ChatGPT 中文版（镜像）** |
 |----------------|----------------|----------------|
@@ -62,6 +62,14 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 
 📢 **结论**：如果你不想折腾翻墙，直接选择**ChatGPT 中文版镜像站**，即开即用！
 
+---
+
+## 为什么选择ChatGPT 中文版？
+国内直连，无需翻墙，而且接入deepseek模型，相较于官网更加便利，而且更多元化。
+
+- **✅ 无需翻墙**：国内直连，不受网络限制。
+- **✅ 全面支持中文**：更精准的中文理解和对话能力。
+- **✅ 多功能应用**：支持 GPT-4、GPT-4o，GPT-o1,deepseek，可用于写作、翻译、代码编写、AI PPT 生成等。
 
 ---
 
