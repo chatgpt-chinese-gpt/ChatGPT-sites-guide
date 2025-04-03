@@ -8,7 +8,7 @@
 ✅ **如何在国内直接使用 ChatGPT 中文版？本指南提供最全镜像站推荐，支持 GPT-4、GPT-4o、GPT-o1，满足你的写作、翻译、编程需求！**
 
 ChatGPT 官网：[https://chat.openai.com](https://chat.openai.com) （需翻墙）  
-ChatGPT 中文版直连入口：[https://gptcat.net](https://gptcat.net/) （无需翻墙）    
+ChatGPT 中文版直连入口：[https://gptcat.cc](https://gptcat.cc/) （无需翻墙）    
 ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需翻墙）  
 
 ---
@@ -40,12 +40,12 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [snakegpt.work](https://snakegpt.work)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [gptcat.net](https://gptcat.net)         | GPT-4, GPT-o1, Claude,deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1, Claude,deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 📢 **如何选择合适的站点？**
-- **如果你需要 GPT-4o，推荐**：[GPTCat](https://gptcat.net/)
+- **如果你需要 GPT-4o，推荐**：[GPTCat](https://gptcat.cc/)
 - **如果你想体验 AI 绘画，推荐**：[SnakeGPT](https://snakegpt.work)
 
 ---
@@ -131,9 +131,3 @@ ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需
 如果觉得本项目对您有帮助，请为我们点亮 **Star**，让更多人发现这个资源！
 
 ---
-                                                                    
-   
-                         
-                                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                             
-                                                                                     
