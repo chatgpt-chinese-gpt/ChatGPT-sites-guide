@@ -1,6 +1,6 @@
 #  【4月持续更新】ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）
 
-> **更新时间： 2025/06/20**    
+> **更新时间： 2025/07/01**    
 > **国内直连，无需翻墙，快速体验 ChatGPT 中文版！** 
 
 2025年最新 **ChatGPT 中文版** 访问指南！无需翻墙，国内直连，支持 GPT-4、GPT-4o，适用于学习、办公、写作、翻译。       
@@ -9,7 +9,7 @@
 
 ChatGPT 官网：[https://chat.openai.com](https://chat.openai.com) （需翻墙）  
 ChatGPT 中文版直连入口：[https://gptcat.cc](https://gptcat.cc/) （无需翻墙）    
-ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （无需翻墙）  
+ChatGPT 中文版镜像网站：[snakegpt.vip](https://snakegpt.vip) （无需翻墙）  
 
 ---
 
@@ -39,14 +39,14 @@ ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （�
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [snakegpt.vip](https://snakegpt.vip)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1, Claude,deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 📢 **如何选择合适的站点？**
 - **如果你需要 GPT-4o，推荐**：[GPTCat](https://gptcat.cc/)
-- **如果你想体验 AI 绘画，推荐**：[SnakeGPT](https://snakegpt.com.cn)
+- **如果你想体验 AI 绘画，推荐**：[SnakeGPT](https://snakegpt.vip)
 
 ---
 
@@ -76,7 +76,7 @@ ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （�
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [snakegpt.com.cn](https://snakegpt.com.cn)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [snakegpt.vip](https://snakegpt.vip)）。
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
